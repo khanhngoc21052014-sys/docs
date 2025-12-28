@@ -1,3 +1,5 @@
+$v="1.2.1"; Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/spicetify/cli/main/install.ps1" | Invoke-Expression
+
 ---
 title: Getting Started
 sidebar_position: 1
